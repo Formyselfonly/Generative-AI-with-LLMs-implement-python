@@ -30,3 +30,6 @@ print(df_test.head())
 print(df_test.columns)
 print(df_test.describe())
 # print(dataset[1]["diague"])
+
+for i,index in enumerate([1,100]):
+    print(index)
